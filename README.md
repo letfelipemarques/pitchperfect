@@ -1,6 +1,6 @@
 # Pitch Perfect
 
-This is my code for one of the Udacity's iOS Development Nanodegree program. 
+This is my code for one of the Udacity's iOS Development Nanodegree program apps. 
 
 ## Description
 
