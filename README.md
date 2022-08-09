@@ -9,6 +9,7 @@ If you would like to see it working, or how I did it, feel free to download the 
 
 ## Features
 
+- Swift 5
 - MVC Pattern
 - UIKit + Storyboard
 - AVFoundation
